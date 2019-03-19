@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51892" started-at="2019-03-01T09:32:46Z" finished-at="2019-03-01T09:33:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51892" started-at="2019-03-01T09:32:46Z" finished-at="2019-03-01T09:33:38Z">
+      <class name="Sprint1_ABFunctionality.S2657_CreateAccountFunctionality_Test">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Sprint1_ABFunctionality.S2657_CreateAccountFunctionality_Test@4501b7af]" name="beforeMethod" is-config="true" duration-ms="40340" started-at="2019-03-01T15:02:46Z" finished-at="2019-03-01T15:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:Sprint1_ABFunctionality.S2657_CreateAccountFunctionality_Test@4501b7af]" name="testCase1" duration-ms="11533" started-at="2019-03-01T15:03:27Z" finished-at="2019-03-01T15:03:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+      </class> <!-- Sprint1_ABFunctionality.S2657_CreateAccountFunctionality_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
